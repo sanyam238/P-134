@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+    }
+    
+    h1{
+    font-size: 50px;
+    margin-top: 0px;
+    }
+    
+    h4{
+       font-size: 20px;
+    }
+    
+    canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 20px;
+    border-color: black;
+    border-style: dashed;
+    margin-top: 120px;
+    }
